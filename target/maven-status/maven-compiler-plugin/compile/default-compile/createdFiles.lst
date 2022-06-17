@@ -1,0 +1,12 @@
+s11/s21_webcolegiohibernate/JAXRSConfiguration.class
+modelo/dao/CursoDAO.class
+modelo/dao/IProfesorDAO.class
+Controlador/ServletCurso.class
+modelo/entity/Curso.class
+s11/s21_webcolegiohibernate/resources/JavaEE8Resource.class
+modelo/dao/ProfesorDAO.class
+util/HibernateUtil.class
+Controlador/ServletProfesor.class
+modelo/entity/Profesor.class
+modelo/dao/ICursoDAO.class
+edu/utp/arquitectura/Controlador/ServletPatrones.class

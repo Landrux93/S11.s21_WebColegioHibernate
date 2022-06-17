@@ -1,0 +1,12 @@
+/home/landrux/NetBeansProjects/S11.s21_WebColegioHibernate/src/main/java/modelo/dao/ICursoDAO.java
+/home/landrux/NetBeansProjects/S11.s21_WebColegioHibernate/src/main/java/modelo/dao/CursoDAO.java
+/home/landrux/NetBeansProjects/S11.s21_WebColegioHibernate/src/main/java/Controlador/ServletProfesor.java
+/home/landrux/NetBeansProjects/S11.s21_WebColegioHibernate/src/main/java/Controlador/ServletCurso.java
+/home/landrux/NetBeansProjects/S11.s21_WebColegioHibernate/src/main/java/s11/s21_webcolegiohibernate/JAXRSConfiguration.java
+/home/landrux/NetBeansProjects/S11.s21_WebColegioHibernate/src/main/java/Controlador/ServletPatrones.java
+/home/landrux/NetBeansProjects/S11.s21_WebColegioHibernate/src/main/java/modelo/dao/ProfesorDAO.java
+/home/landrux/NetBeansProjects/S11.s21_WebColegioHibernate/src/main/java/modelo/entity/Curso.java
+/home/landrux/NetBeansProjects/S11.s21_WebColegioHibernate/src/main/java/util/HibernateUtil.java
+/home/landrux/NetBeansProjects/S11.s21_WebColegioHibernate/src/main/java/modelo/dao/IProfesorDAO.java
+/home/landrux/NetBeansProjects/S11.s21_WebColegioHibernate/src/main/java/modelo/entity/Profesor.java
+/home/landrux/NetBeansProjects/S11.s21_WebColegioHibernate/src/main/java/s11/s21_webcolegiohibernate/resources/JavaEE8Resource.java

@@ -1,0 +1,195 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28/07/2020, 10:33:30 PM
+    Author     : EDU
+*/
+
+.cont{
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid purple;
+    overflow: hidden;
+    width: 400px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto; 
+    
+    
+    
+}
+
+.head{
+    border-bottom: 1px solid #f0f0f0;
+    background-color: #f7f7f7;
+    padding: 20px 40px;
+    
+}
+
+.head h2{
+    margin: 0;
+    
+}
+
+.formsesion{
+    padding: 30px 40px;
+    
+    
+}
+
+
+
+.formcontrol{
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    position: relative;
+    
+}
+
+.formcontrol label{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.formcontrol input{
+    border: 2px solid #f0f0f0;
+    border-radius: 4px;
+    display: block;
+    font-family: inherit;
+    font-size: 14px;
+    padding: 10px;
+    width: 100%;
+}
+
+.formcontrol input:focus{
+    outline: 0;
+    border-color: #777;
+    
+}
+
+.formcontrol select{
+    border: 2px solid #f0f0f0;
+    border-radius: 4px;
+    display: block;
+    font-family: inherit;
+    font-size: 14px;
+    padding: 12px;
+    width: 100%;
+    
+}
+
+.formcontrol select:focus{
+    outline: 0;
+    border-color: #777;
+    
+}
+
+.formcontrol.success input{
+    border-color: #2ecc71;
+}
+
+.formcontrol.error input{
+    border-color: red;
+}
+
+.formcontrol.success select{
+    border-color: #2ecc71;
+}
+
+.formcontrol.error select{
+    border-color: red;
+}
+.formcontrol i{
+    visibility: hidden;
+    position: absolute;
+    top: 40px;
+    right: 10px;
+}
+
+.formcontrol.success i.fa-check-circle{
+    color: #2ecc71;
+    visibility: visible;
+    padding-right: 8px;
+    
+    
+}
+.formcontrol.error i.fa-exclamation-circle{
+    color: red;
+    visibility: visible;
+    padding-right: 8px;
+    
+}
+
+.formcontrol small{
+    color: #e74c3c;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    visibility: hidden;
+}
+
+
+.formcontrol.error small{
+    visibility: visible;
+}		
+
+.btn-send{
+    background-color: #9b59b6;
+    border: 2px solid #9b59b6;
+    border-radius: 4px;
+    color: #fff;
+    display: block;
+    font-family: inherit;
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+
+/*//map*/
+#right-panel {
+        font-family: "Roboto", "sans-serif";
+        line-height: 30px;
+        padding-left: 10px;
+      }
+
+      #right-panel select,
+      #right-panel input {
+        font-size: 15px;
+      }
+
+      #right-panel select {
+        width: 100%;
+      }
+
+      #right-panel i {
+        font-size: 12px;
+      }
+
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+      #map {
+        height: 80%;
+        float: left;
+        width: 70%;
+        
+      }
+
+      #right-panel {
+        margin: 20px;
+        border-width: 2px;
+        width: 20%;
+        height: 400px;
+        float: left;
+        text-align: left;
+        padding-top: 0;
+      }
